@@ -35,12 +35,12 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Mcadefarhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mcadefarhan&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcadefarhan&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mcadefarhan&theme=radical&hide_border=true)
 
 ---
 
-⭐️ From [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME) — always learning, always building.
+⭐️ From [Mcadefarhan](https://github.com/Mcadefarhan) — always learning, always building.
