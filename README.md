@@ -8,7 +8,7 @@
 - 💻 **Also know:** Basic Web Development (HTML, CSS, JavaScript)
 - 🤝 **Looking to collaborate on:** Cloud, DevOps, and Automation projects
 - 💬 **Ask me about:** AWS, Linux, Networking, Git/GitHub, Bash Scripting
-- 📫 **Reach me at:** your-email@example.com
+- 📫 **Reach me at:** farhankhan22eu@gmail.com
 - 🎯 **Open to:** Internships and entry-level Cloud/DevOps opportunities
 
 ---
