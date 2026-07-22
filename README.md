@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hi, I'm MD Farhan Kalim 👋
 
-<!--
-**Mcadefarhan/Mcadefarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☁️ Aspiring **Cloud Engineer** building practical, hands-on skills in AWS, Linux, and Networking through real projects.
 
-Here are some ideas to get you started:
+- 🚀 **Currently working on:** Hands-on AWS projects and Linux system administration practice
+- 🌱 **Currently learning:** AWS Cloud Services, Networking fundamentals, and Infrastructure Automation
+- 🛠️ **Comfortable with:** Linux system administration, Bash scripting, and Git/GitHub version control
+- 💻 **Also know:** Basic Web Development (HTML, CSS, JavaScript)
+- 🤝 **Looking to collaborate on:** Cloud, DevOps, and Automation projects
+- 💬 **Ask me about:** AWS, Linux, Networking, Git/GitHub, Bash Scripting
+- 📫 **Reach me at:** your-email@example.com
+- 🎯 **Open to:** Internships and entry-level Cloud/DevOps opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Socials
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+
+---
+
+### 🧰 Tech Stack
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=radical&hide_border=true)
+
+---
+
+⭐️ From [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME) — always learning, always building.
