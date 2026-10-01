@@ -7,7 +7,7 @@
 - 🛠️ **Comfortable with:** Linux system administration, Bash scripting, and Git/GitHub version control
 - 💻 **Also know:** Basic Web Development (HTML, CSS, JavaScript)
 - 🤝 **Looking to collaborate on:** Cloud, DevOps, and Automation projects
-- 💬 **Ask me about:** AWS, Linux, Networking, Git/GitHub, Bash Scripting
+- 💬 **Ask me about:** AWS, Linux, Networking, Git/GitHub, Bash Scripting, Docker
 - 📫 **Reach me at:** farhankhan22eu@gmail.com
 - 🎯 **Open to:** Internships and entry-level Cloud/DevOps opportunities
 
